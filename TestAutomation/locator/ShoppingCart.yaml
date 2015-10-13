@@ -1,0 +1,6 @@
+删除商品：
+  type:xpath
+  value:"//a[text()='删除']"
+确定删除：
+  type:xpath
+  value:"//a[text()='删除']"

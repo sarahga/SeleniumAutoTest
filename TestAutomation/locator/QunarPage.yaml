@@ -1,0 +1,21 @@
+TypeSng:
+  type:id
+  value:js_searchtype_oneway
+FromCity:
+  type:xpath
+  value:"//input[@name='fromCity']"
+ToCity:
+  type:xpath
+  value:"//input[@name='toCity']"
+FromDate:
+  type:xpath
+  value:"//input[@name='fromDate']"
+SearchButton:  
+  type:xpath
+  value:"//button[@class='button-search']"
+description:
+  type:id
+  value:progTip
+booking:
+  type:xpath
+  value:"//div[@id='hdivResultPanel']//div[@class='c8']//a[@class='btn_book']"

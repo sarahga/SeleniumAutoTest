@@ -1,0 +1,6 @@
+加入购物车：
+  type:xpath
+  value:"//a[@id='InitCartUrl']"
+去购物车结算：
+  type:xpath
+  value:"//a[@id='GotoShoppingCart']"

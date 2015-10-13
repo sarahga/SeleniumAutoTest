@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//locator/FirstPage.yaml=UTF-8
+encoding//locator/LoginPage.yaml=UTF-8
+encoding//locator/MobileList.yaml=UTF-8
+encoding//locator/ProductPage.yaml=UTF-8
+encoding//locator/QunarPage.yaml=UTF-8
+encoding//locator/ShoppingCart.yaml=UTF-8
+encoding//run/testng.xml=UTF-8
+encoding//src/com/test/base/SeleniumDriver.java=UTF-8
+encoding//src/com/test/page/FirstPage.java=UTF-8
+encoding//src/com/test/page/LoginPage.java=UTF-8
+encoding//src/com/test/util/ExcelReader.java=UTF-8
+encoding/<project>=UTF-8
+encoding/locator=UTF-8

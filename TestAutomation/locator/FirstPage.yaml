@@ -1,0 +1,10 @@
+login_link:
+  type:xpath
+  value:"//li[@id='ttbar-login']/a[@class='link-login']"
+手机数码京东通信:
+  type:xpath
+  value:"//div[@id='categorys-2014']//a[contains(text(), '�ֻ�')]"
+手机品类入口:
+  type:xpath
+  value:"//a[@href='http://list.jd.com/9987-653-655.html']"
+  

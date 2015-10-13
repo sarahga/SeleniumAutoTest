@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<common></common>
+	<testQunar>
+		<QNUrl>http://www.qunar.com/</QNUrl>
+		<FromCity>深圳(SZX)</FromCity>
+		<ToCity>上海(SHA)</ToCity>
+		<FromDate>2015-05-10</FromDate>
+	</testQunar>
+</data>
